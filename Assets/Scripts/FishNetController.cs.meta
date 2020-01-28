@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22c98b23707594f458243b17557fbd88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroy: {instanceID: 0}
+  - smallNet: {fileID: 1655161087184164781, guid: c087fb4a599d3214fa9d133caa0a3371,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
